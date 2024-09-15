@@ -1,2 +1,2 @@
-# hackthenorth2
+# hackthenorth
 first one messed up
